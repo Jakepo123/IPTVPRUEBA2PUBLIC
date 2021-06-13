@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, DIRECTV SPORTS FHD
-https://directvsports-live.akamaized.net:443/hls/live/2026679/DTVSAR/stream05/hdntl=exp=1623681559~acl=%2f*~data=hdntl~hmac=64c0d7b0092b9d9c3bc8d7bb631c67ff70fd040bbf9b0403d0bcb1fe16686146/streamPlaylist.m3u8
+https://directvsports-live.akamaized.net:443/hls/live/2026679/DTVSAR/stream05/hdntl=exp=1623683235~acl=%2f*~data=hdntl~hmac=8ef1322ee5239c74c346fb6623788489d48395048e433a582a2e746a660b08b9/streamPlaylist.m3u8
 
 #EXTINF:-1, DIRECTV SPORTS HD
-https://directvsports-live.akamaized.net:443/hls/live/2026679/DTVSAR/stream04/hdntl=exp=1623681559~acl=%2f*~data=hdntl~hmac=64c0d7b0092b9d9c3bc8d7bb631c67ff70fd040bbf9b0403d0bcb1fe16686146/streamPlaylist.m3u8
+https://directvsports-live.akamaized.net:443/hls/live/2026679/DTVSAR/stream04/hdntl=exp=1623683235~acl=%2f*~data=hdntl~hmac=8ef1322ee5239c74c346fb6623788489d48395048e433a582a2e746a660b08b9/streamPlaylist.m3u8
 
 #EXTINF:-1, DIRECTV SPORTS2 FHD
 https://directvsports-live.akamaized.net:443/hls/live/2026679/DTVS2/stream05/hdntl=exp=1623681696~acl=%2f*~data=hdntl~hmac=1e3506a704b4b8f0c579d8fce2e0c293da380e23b1a338b4d71e705247eea797/streamPlaylist.m3u8
